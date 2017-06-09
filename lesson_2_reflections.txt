@@ -1,0 +1,14 @@
+Prompt : What happens when you initialize a repository? Why do you need to do it?
+
+A .git file is created. 
+We need to do this so that we can begin to use git on that repository. 
+This .git file stores our log.
+
+
+
+Prompt : How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A staging area is a sort of a buffer. It keeps track of the files to be added to a commit. 
+A repository is a collection of files being tracked by git, while a wd contains all the files. 
+If we don't need to add all the files in a single commit, we can add only the required files to the staging area, which are then committed. 
+
