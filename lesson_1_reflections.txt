@@ -1,0 +1,60 @@
+Prompt :  How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+Viewing a diff helped since manual comparison is avoided. 
+Manual comparison is a tedious task, and if the document is thousands of lines long, it becomes infeasible. 
+Although, even after using diff, mamual comparison is needed, the field of search is narrowed to a few lines. 
+This can be easily compared manually. 
+
+
+
+
+Prompt : How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+We can make changess without the fear of breaking the program.
+This can be done to compare the efficiency of different libraries, data structures, without compromising the integrity of the sw. 
+
+
+
+
+Prompt : What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manual commits help us pace out our commits.
+While autosaving, sometimes the period between two successive saves may not have much changes, while sometimes the opposite may occur. 
+if doing manually, this can be avoided. Commits can be made after logical changes, helping generate a viable changelog. 
+
+
+
+
+Prompt : Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think this is because while git was made for tracking code, primarily, google docs was made for docs. 
+There can be multiple files interlinked in a program, while documents are generally independent of one other. 
+
+
+
+Prompt : How can you use the commands git log and git diff to view the history of files?
+
+Git log can be used to generaate  the whole log of commits.
+git diff can be used on two files, which we need to compare. 
+
+Using this combo, we can view the entire history of files. 
+
+
+
+
+
+
+Prompt : How might using version control make you more confident to make changes that could break something?
+
+Very confident, since I can always go back using git log, and use the version which works.
+
+
+
+
+
+Prompt : Now that you have your workspace set up, what do you want to try using Git for?
+
+I am starting a new project, for my internship, for that. 
+
+
