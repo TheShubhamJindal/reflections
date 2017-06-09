@@ -18,3 +18,15 @@ Prompt : How can you use the staging area to make sure you have one commit per l
 
 I can change a file, add it to the staging area, and then commit the staging area.
 Since, the other changes were not added to the staging area, they won't be committed. 
+
+
+
+Prompt : What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be mostly useful when multiple people are working on different parts of a project, and they can make the changes like they want to, without affecting the original project. 
+
+
+Prompt : How do the diagrams help you visualize the branch structure?
+
+Visual representation makes it easier to visualise the structure.
+Also, clearly shows all the branches and clears doubts regarding reachability. w
