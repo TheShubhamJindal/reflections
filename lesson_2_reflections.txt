@@ -12,3 +12,9 @@ A staging area is a sort of a buffer. It keeps track of the files to be added to
 A repository is a collection of files being tracked by git, while a wd contains all the files. 
 If we don't need to add all the files in a single commit, we can add only the required files to the staging area, which are then committed. 
 
+
+
+Prompt : How can you use the staging area to make sure you have one commit per logical change?
+
+I can change a file, add it to the staging area, and then commit the staging area.
+Since, the other changes were not added to the staging area, they won't be committed. 
