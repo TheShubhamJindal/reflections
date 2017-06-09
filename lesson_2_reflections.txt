@@ -41,3 +41,7 @@ This allows the changes to be made.
 
 
 
+Prompt : What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic saves tedious labour. 
+Manual allows more flexibility. 
