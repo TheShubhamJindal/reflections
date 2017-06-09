@@ -26,7 +26,18 @@ Prompt : What are some situations when branches would be helpful in keeping your
 Branches would be mostly useful when multiple people are working on different parts of a project, and they can make the changes like they want to, without affecting the original project. 
 
 
-Prompt : How do the diagrams help you visualize the branch structure?
+
+Prompt : How do the diagrams help you visualize the branch 
+structure?
 
 Visual representation makes it easier to visualise the structure.
-Also, clearly shows all the branches and clears doubts regarding reachability. w
+Also, clearly shows all the branches and clears doubts regarding reachability. 
+
+
+
+Prompt : What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is that the code gets merged. 
+This allows the changes to be made. 
+
+
+
