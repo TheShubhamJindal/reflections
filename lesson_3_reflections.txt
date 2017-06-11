@@ -16,3 +16,9 @@ Prompt : Describe the differences between forks, clones, and branches. When woul
 Fork is when I want to clone some repository, but also give credit to the user.
 Clone is when I want a repository on my system, from GitHub. 
 branches is when I have don;t have required permissions, or I want to add additional features. 
+
+
+
+Prompt : What is the benefit of having a copy of the last known state of the remote stored locally?
+
+I can track where I was, when I stopped working, and I can continue from there. w
