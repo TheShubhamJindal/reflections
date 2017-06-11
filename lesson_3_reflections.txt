@@ -9,3 +9,10 @@ Prompt : Why might you want to always pull changes manually rather than having G
 
 When working on a team process, I may not require the changes immediately. 
 As a result, it is better to have manual sync. 
+
+
+Prompt : Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is when I want to clone some repository, but also give credit to the user.
+Clone is when I want a repository on my system, from GitHub. 
+branches is when I have don;t have required permissions, or I want to add additional features. 
