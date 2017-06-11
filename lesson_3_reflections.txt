@@ -1,0 +1,4 @@
+Prompt : When would you want to use a remote repository rather than keeping all your work local?
+
+I'll prefer to use a remote repository instead of a local one, when I have a multiuser team working together.
+Also, it would be helpful when I have multiple machines on which I do my work.
