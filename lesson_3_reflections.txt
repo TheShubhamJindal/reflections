@@ -25,6 +25,21 @@ I can track where I was, when I stopped working, and I can continue from there.
 
 
 
+
 Prompt : How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-I don't know. I guess we'll have to share all our codes with each other, which would be very difficult.
+I don't know. I guess we'll have to share all our codes with each other, which would be very difficult, cumbersome,
+and time consuming. Also, it will be practically very inefficient, since even if a slight change is made, it will have to be 
+shared with all the team members. 
+
+
+
+
+Prompt : When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would make changes in a separate branch, when I am making some improvements on a project on which my team
+is working. This way, even if I break it somehow, the deployed product(master branch) can continue to work fine. 
+
+
+
+
+
